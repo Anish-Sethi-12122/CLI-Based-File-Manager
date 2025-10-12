@@ -67,7 +67,3 @@ B.Tech CSE Student
 
 ### 🪪 License
 This project is licensed under the MIT License — feel free to use, modify, and share.
-
-🎉 **Turn everyday file work into an adventure. Say goodbye to boring!**
-
-[1](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/100271105/02870284-00dd-4d18-bf52-5943e5ab49e8/All-Files-Menu.py)
