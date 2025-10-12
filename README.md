@@ -55,15 +55,18 @@ Print("WAIT.... SOMETHING IS HAPPENING")
 Print("NaHBrO.. LOL")
 ```
 
-## 🛠️ Contributions
+## 🧑‍💻 Author
 
-Send PRs, issues, or ideas—let’s make this CLI manager legendary!
+Anish Sethi  
+B.Tech CSE Student  
 
-## 📜 License
+💼 [LinkedIn](https://www.linkedin.com/in/anish-sethi-dtu-cse/)  
+⭐ Don’t forget to star the repo if you like it!  
 
-MIT License—open for all uses.
+---
 
-***
+### 🪪 License
+This project is licensed under the MIT License — feel free to use, modify, and share.
 
 🎉 **Turn everyday file work into an adventure. Say goodbye to boring!**
 
